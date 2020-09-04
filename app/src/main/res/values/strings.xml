@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">مدیریت شالی‌ها</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="add_shali">ثبت شالی</string>
+    <string name="reports">گزارشات</string>
+    <string name="manage_shalis">مدیریت شالی‌‌ها</string>
+    <string name="submitted_shalis">شالی‌های ثبت شده</string>
+    <string name="submitted_rices">برنج‌های ثبت شده</string>
+    <string name="completed_shalis">شالی‌های تکمیل شده</string>
+    <string name="see_farmers">مشاهده کشاورزها</string>
+    <string name="received_rices">برنج‌های تحویل شده</string>
+    <string name="submit">ثبت</string>
+    <string name="shali_type">نوع شالی</string>
+    <string name="shali_count">تعداد شالی</string>
+    <string name="shali_weight">وزن شالی</string>
+    <string name="rice_weight">وزن برنج</string>
+    <string name="halfrice_weight">وزن نیم دانه</string>
+    <string name="saboos_weight">وزن سبوس</string>
+    <string name="shalikoobi_date">تاریخ شالی‌کوبی</string>
+    <string name="rice_receive_date">تاریخ تحویل</string>
+    <string name="shalikoobi_wage">کارمزد شالی‌کوبی</string>
+    <string name="choose_farmer">انتخاب کشاورز</string>
+    <string name="shali_kise_count">تعداد کیسه شالی</string>
+    <string name="shali_place">مکان شالی</string>
+    <string name="driver">راننده</string>
+    <string name="farmer_name">نام کشاورز</string>
+    <string name="phone">تلفن</string>
+    <string name="add_farmer">افزودن کشاورز</string>
+    <string name="submitteds">ثبت شده‌ها</string>
+    <string name="deliver">تحویل</string>
+    <string name="add_rice">ثبت برنج</string>
+    <string name="stats">آمار و گزارشات</string>
+    <string name="rice_kise_count">تعداد کیسه برنج</string>
+    <string name="saboos_kise_count">تعداد کیسه سبوس</string>
+    <string name="remaining_weight">وزن اضافه</string>
+    <string name="rice_kise_weight">وزن کیسه برنج</string>
+    <string name="total_rice_weight">مجموع وزن برنج</string>
+    <string name="title_activity_submitteds">SubmittedsActivity</string>
+    <string name="code_or_farmer_name">کد شالی یا نام کشاورز</string>
+
+    <string name="code">کد</string>
+    <string name="date">تاریخ</string>
+    <string name="time">ساعت</string>
+
+
+</resources>

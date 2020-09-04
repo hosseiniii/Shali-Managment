@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a2dda5</color>
+    <color name="colorPrimaryDark">#4c967d</color>
+    <color name="colorAccent">#0b2110</color>
+
+    <color name="colorPrimaryComplete">#B3DFB5</color>
+
+    <color name="black">#1f1f1f</color>
+    <color name="white">#f1f1f1</color>
+    <color name="text_gray">#9ca8a2</color>
+
+    <color name="submit_button_green">#84f894</color>
+
+    <color name="color1">#a2dda5</color>
+    <color name="color2">#4c967d</color>
+    <color name="color3">#e3f0eb</color>
+    <color name="color4">#0b2110</color>
+
+    <color name="project_green">#00B8D4</color>
+    <color name="project_light_green">#00E676</color>
+    <color name="project_orange">#FFC400</color>
+    <color name="project_red">#FF1744</color>
+    <color name="project_purple">#D500F9</color>
+
+    <color name="project_green2">#64FFDA</color>
+    <color name="project_light_green2">#B2FF59</color>
+    <color name="project_orange2">#FFEA00</color>
+    <color name="project_red2">#FF5252</color>
+    <color name="project_purple2">#AA00FF</color>
+
+</resources>
